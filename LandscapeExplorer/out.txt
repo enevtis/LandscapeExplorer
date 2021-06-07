@@ -1,0 +1,10 @@
+
+PsExec v2.33 - Execute processes remotely
+Copyright (C) 2001-2021 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+
+Windows IP Configuration
+
+Connecting to 192.168.20.10...Starting PSEXESVC service on 192.168.20.10...Copying authentication key to 192.168.20.10...Connecting with PsExec service on 192.168.20.10...Starting cmd on 192.168.20.10...
+cmd exited on 192.168.20.10 with error code 0.
